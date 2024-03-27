@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
 </div>
-<p>My name is Ángel. I'm a junior full stack web developer, musician and overall enthusiast.</p>
+<p>My name is Ángel. I'm a full stack web developer, musician and overall enthusiast.</p>
 <p>I started coding during my last year of university, after that I decided to transform my passion into my job and it has been such a ride!</p>
 <p>I have worked and developed projects in different languages, with both SQL and NOSQL databases, version control software and containers.</p>
 <p>I am a pro-active person, problem-solver, social and a fervent believer of team work. I love communicating ideas and finding new solutions.</p>
@@ -11,7 +11,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
