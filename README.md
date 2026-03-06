@@ -3,9 +3,9 @@
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
 </div>
 <p>My name is Ángel. I'm a full stack web developer, musician and overall enthusiast.</p>
-<p>I started coding during my last year of university, after that I decided to transform my passion into my job and it has been such a ride!</p>
+<p>I started coding during my last year of university, after that I decided to enroll in a 2 year professional academic course and transform my passion into my job, earnning the diploma of Higher Technician in Development of Web Applications. It has been such a ride!</p>
 <p>I have worked and developed projects in different languages, with both SQL and NOSQL databases, version control software and containers.</p>
-<p>I am a pro-active person, problem-solver, social and a fervent believer of team work. I love communicating ideas and finding new solutions.</p>
+<p>I am a pro-active person, a problem-solver, very social and a fervent believer of team work. I love communicating ideas and finding new solutions.</p>
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
